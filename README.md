@@ -64,8 +64,7 @@ We trained a **Logistic Regression** model using Scikit-learn:
 ---
 
 ## 🔗 Resources  
-- **Dataset**: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
-- **Colab Notebook**: [Add Link Here]  
+- **Dataset**: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)    
 - **Scikit-learn Documentation**: [https://scikit-learn.org](https://scikit-learn.org)   
 ---
 
